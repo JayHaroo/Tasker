@@ -11,7 +11,6 @@ function App() {
       </div>
       <div className="ml-2 mt-2 flex">
         <Table />
-        <Add />
       </div>
     </>
   );
